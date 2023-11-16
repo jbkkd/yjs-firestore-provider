@@ -21,7 +21,7 @@
       "crdt"
     ],
     "peerDependencies": {
-      "firebase": "^9.17.1",
+      "firebase": ">=9.17.1",
       "yjs": "^13.5.48",
       "simple-peer": "^9.11.1",
       "y-protocols": "^1.0.5"
